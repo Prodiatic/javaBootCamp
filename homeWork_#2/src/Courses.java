@@ -15,9 +15,5 @@ public class Courses {
 	int coursePrice; 
 	String courseCategory;
 	/*I left the coursePrice as a string.If, god forbid, one day courses stop being free, we can still do calculations with them...*/
-	
-	Instructor instructor = new Instructor("Engin","Demiroð");
-	
-
 
 }
